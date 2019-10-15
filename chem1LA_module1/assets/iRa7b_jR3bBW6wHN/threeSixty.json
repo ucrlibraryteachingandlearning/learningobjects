@@ -1,0 +1,49 @@
+{
+  "version": "3.29.19305.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6b14XEacKrg",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6kc3rHH1S2O",
+      "title": "Text Entry",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "62APpuO9bw8",
+      "title": "Pick One",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6PHXi6kCuPG",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6eO9llP4QNm",
+      "title": "Text Entry",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5f8PxHhLGku",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
