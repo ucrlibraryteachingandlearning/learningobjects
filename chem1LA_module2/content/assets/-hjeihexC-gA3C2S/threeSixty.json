@@ -1,0 +1,34 @@
+{
+  "version": "3.29.19305.0",
+  "scenes": [
+    {
+      "title": "LC system"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6EuY2NX5AL0",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6gmwYvclmDs",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "61mVCO2weTJ",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 658
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
