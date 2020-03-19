@@ -28,13 +28,13 @@ url: "https://ucrlibraryteachingandlearning.github.io" # the base hostname & pro
 twitter_username: ucrlibrary
 github_username:  ucrlibraryteachingandlearning
 
-license: CC BY-SA 4.0
+license: CC BY-NC 4.0
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-# - jekyll-feed
+ - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
