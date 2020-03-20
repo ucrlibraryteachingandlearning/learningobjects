@@ -1,0 +1,29 @@
+{
+  "version": "3.35.20995.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6NSxZKKFicX",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "67GIW9cZDZt",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "classic",
+    "width": 740,
+    "height": 476
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
