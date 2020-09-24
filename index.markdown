@@ -12,5 +12,5 @@ layout: home
 <ul><a href="..{{site.baseurl}}/chem1LA_module2/index.html" target="_blank">Chem 1LA Module 2 - Using Call Numbers</a></ul>
 <ul><a href="..{{site.baseurl}}/chem1LA_module3/index.html" target="_blank">Chem 1LA Module 3 - CRC Handbook</a></ul>
 <p>The following is a tutorial created for the UCR CHASS F1RST program, created by Michael Yonezawa and Dani Brecher Cook. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
-<ul><a href="..{{site.baseurl}}/chass_F1rst/index.html" target="_blank">CHASS F1RST Module</a></ul>
+<ul><a href="..{{site.baseurl}}/chass_F1rst/content/index.html" target="_blank">CHASS F1RST Module</a></ul>
 </body>
