@@ -20,7 +20,7 @@
 
 author: Teaching and Learning Department
 title: UCR Library Teaching and Learning Tutorials
-email: dani.cook@ucr.edu
+email: LibTeaching@ucr.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a page for sharing tutorials created by the UCR Library's Teaching and Learning Services department.
 baseurl: "/learningobjects" # the subpath of your site, e.g. /blog
