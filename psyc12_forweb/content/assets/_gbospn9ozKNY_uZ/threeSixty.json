@@ -1,0 +1,59 @@
+{
+  "version": "3.41.22450.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5b43tAE2JXf",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6Dg6PgsTDuu",
+      "title": "Frame",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5vkjAoMTOkj",
+      "title": "Frame",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6JfnNUI8AEK",
+      "title": "Frame",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6E5qU8NhMQF",
+      "title": "Frame",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5oeH7Abp1Wj",
+      "title": "Frame",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5WcG6y8usj6",
+      "title": "Frame",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6LhVSvRI2KC",
+      "title": "Frame",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 523
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
