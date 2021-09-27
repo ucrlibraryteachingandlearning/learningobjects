@@ -61,6 +61,11 @@
         }
       });
     },
+    OnPlayButtonShown: function() {
+      sendParentMessage({
+        type: 'playButton:shown'
+      });
+    },
     OnEnterFullscreen: function() {
       sendParentMessage({
         type: 'fullscreen:enter',
