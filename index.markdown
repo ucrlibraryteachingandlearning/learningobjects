@@ -9,9 +9,9 @@ layout: home
 <h1>UCR Library Teaching & Learning</h1>
 <p>Welcome to the repository for UCR Library's Teaching & Learning Services learning objects.</p>
 <p>Below are three interactive modules designed for an introductory chemistry course, created by Phyllis Ung and Dani Brecher Cook (2019) and updated by Michael Yonezawa and Robin Katz (2021) in Articulate Rise and Articulate Storyline. You are welcome to use and adapt any of these modules for your own educational purposes, under a CC-BY-NC license.</p>  
-<ul><a href="..{{site.baseurl}}/chem1LA_module1/index.html" target="_blank">Chem 1LA Module 1 - Finding Course Reserves</a></ul>
-<ul><a href="..{{site.baseurl}}/chem1LA_module2/index.html" target="_blank">Chem 1LA Module 2 - Using Call Numbers</a></ul>
-<ul><a href="..{{site.baseurl}}/chem1LA_module3/index.html" target="_blank">Chem 1LA Module 3 - CRC Handbook</a></ul>
+<ul><a href="..{{site.baseurl}}/chem1LA_module1/content/index.html" target="_blank">Chem 1LA Module 1 - Finding Course Reserves</a></ul>
+<ul><a href="..{{site.baseurl}}/chem1LA_module2/content/index.html" target="_blank">Chem 1LA Module 2 - Using Call Numbers</a></ul>
+<ul><a href="..{{site.baseurl}}/chem1LA_module3/content/index.html" target="_blank">Chem 1LA Module 3 - CRC Handbook</a></ul>
 <p>This interactive module was created for an introductory biology course, and focuses on thinking like a scientist. It was created by Phyllis Ung, Star Lee, Michael Yonezawa, and Dani Brecher Cook in Articulate Rise and Articulate Storyline. You are welcome to use and adapt any of these modules for your own educational purposes, under a CC-BY-NC license.</p>  
 <ul><a href="..{{site.baseurl}}/bio_05La_forweb/content/index.html" target="_blank">Bio 05LA - Thinking Like a Scientist</a></ul>
 <img src="/learningobjects/primo-2020.png" alt="PRIMO - Peer Reviewed Instructional Materials Online Logo" width="50%" />
