@@ -20,4 +20,5 @@ layout: home
 <ul><a href="..{{site.baseurl}}/psyc12_forweb/content/index.html" target="_blank">Psychology 12 - Thinking Like a Scientist (Psychology Edition)</a></ul>
 <p>The following is a tutorial created for the UCR CHASS F1RST program, created by Michael Yonezawa and Dani Brecher Cook (2020) and updated by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/chass_F1rst/content/index.html" target="_blank">CHASS F1RST Module</a></ul>
+<ul><a href="..{{site.baseurl}}/nasc93_forweb/content/index.html" target="_blank">NASC 093 Library Tutorial</a></ul>
 </body>
