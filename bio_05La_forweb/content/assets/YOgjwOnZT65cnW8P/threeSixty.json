@@ -1,0 +1,67 @@
+{
+  "version": "3.57.26476.0",
+  "course_id": "5xN0oNALMfC_course_id",
+  "title": "WoS exercise v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6cvOBpjJikO",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6GXWNwRR7wR",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6hVQSgAq53K",
+      "title": "Untitled Slide",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "67CLFSym1fj",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5s15rJ6v6so",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "62M9i5IyoA6",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6PvVEIi0hRh",
+      "title": "Untitled Slide",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "689r692BeJz",
+      "title": "Untitled Slide",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6RFXkWCz7Ix",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 523
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
