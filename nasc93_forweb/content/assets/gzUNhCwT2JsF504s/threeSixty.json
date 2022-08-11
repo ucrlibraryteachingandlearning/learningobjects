@@ -1,0 +1,32 @@
+{
+  "version": "3.60.26947.0",
+  "course_id": "6pOHYr25xxT_course_id",
+  "title": "Chass F1rst Module 1 Certification",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "PDF Certificate"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6b0OXOR2VTc",
+      "title": "Please enter your full name here:",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5sU6xkIZhCx",
+      "title": "Certificate",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
