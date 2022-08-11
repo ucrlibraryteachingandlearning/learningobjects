@@ -22,6 +22,6 @@ layout: home
 <ul><a href="http://primodb.org/" target="_blank">Selected by the ALA ACRL Instruction Session for the PRIMO database of Peer Reviewed Materials Online.</a></ul>
 <p>The following is a tutorial created for the UCR CHASS F1RST program, created by Michael Yonezawa and Dani Brecher Cook (2020) and updated by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). Updated (August 2022) improved accessiblity and added Get it at UC video. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/chass_F1rst/content/index.html" target="_blank">CHASS F1RST Library Tutorial</a></ul>
-<p>The following is a tutorial created for NASC 093, created by Michael Yonezawa and Dani Brecher Cook (2020) and updated by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
+<p>The following is a tutorial created for NASC 093, created by Michael Yonezawa and Dani Brecher Cook (2020) and updated by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). Updated (August 2022) improved accessiblity and added Get it at UC video. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/nasc93_forweb/content/index.html" target="_blank">NASC 093 Library Tutorial</a></ul>
 </body>
