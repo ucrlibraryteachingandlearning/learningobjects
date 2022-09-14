@@ -16,7 +16,7 @@ layout: home
 <ul><a href="..{{site.baseurl}}/bio_05La_forweb/content/index.html" target="_blank">Bio 05LA - Thinking Like a Scientist</a></ul>
 <img src="/learningobjects/primo-2020.png" alt="PRIMO - Peer Reviewed Instructional Materials Online Logo 2020" width="50%" />
 <ul><a href="http://primodb.org/" target="_blank">Selected by the ALA ACRL Instruction Session for the PRIMO database of Peer Reviewed Materials Online.</a></ul>
-<p>The following is a tutorial created for a course on research methodologies in psychology, created by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). Based on the Bio 05LA - Thinking Like a Scientist created by Phyllis Ung, Star Lee, Michael Yonezawa, and Dani Brecher Cook. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
+<p>The following is a tutorial created for a course on research methodologies in psychology, created by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). Updated (April 2022) to improve accessiblity. Based on the Bio 05LA - Thinking Like a Scientist created by Phyllis Ung, Star Lee, Michael Yonezawa, and Dani Brecher Cook. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/psyc12_forweb/content/index.html" target="_blank">Psychology 12 - Thinking Like a Scientist (Psychology Edition)</a></ul>
 <img src="/learningobjects/primo-2022.jpg" alt="PRIMO - Peer Reviewed Instructional Materials Online Logo 2022" width="50%" />
 <ul><a href="http://primodb.org/" target="_blank">Selected by the ALA ACRL Instruction Session for the PRIMO database of Peer Reviewed Materials Online.</a></ul>
