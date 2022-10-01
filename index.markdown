@@ -24,4 +24,6 @@ layout: home
 <ul><a href="..{{site.baseurl}}/chass_F1rst/content/index.html" target="_blank">CHASS F1RST Library Tutorial</a></ul>
 <p>The following is a tutorial created for NASC 093, created by Michael Yonezawa and Dani Brecher Cook (2020) and updated by Michael Yonezawa, Robin Katz, Phyllis Ung, and Donavan Frazier (2021). Updated (August 2022) improved accessiblity and added Get it at UC video. You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/nasc93_forweb/content/index.html" target="_blank">NASC 093 Library Tutorial</a></ul>
+<p>The following is a tutorial created to introduce Get it at UC (the link resolver used by the University of California Libraries), created by Donovan Frazier and Michael Yonezawa (2022) You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
+<ul><a href="..{{site.baseurl}}/getitatucweb/content/index.html" target="_blank">Get it at UC Library Tutorial</a></ul>
 </body>
