@@ -1,0 +1,32 @@
+{
+  "version": "3.67.28569.0",
+  "course_id": "6HaTemlgZ7V_course_id",
+  "title": "Keywords Development Activity v2",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5q0IrktQoTC",
+      "title": "Untitled Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5WnEQleZZj2",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 523
+  },
+  "stage": {
+    "width": 720,
+    "height": 405
+  }
+}
