@@ -29,7 +29,7 @@ layout: home
 <p>The following is a tutorial created to introduce Keyword Development, created by Donovan Frazier and Michael Yonezawa (2022) You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/keyword_development/content/index.html" target="_blank">Keyword Development (Microlearning) Tutorial</a></ul>
 <p>The following is a tutorial created to introduce Boolean Operators (AND, OR, NOT), created by Donovan Frazier and Michael Yonezawa (2022) You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
-<ul><a href="..{{site.baseurl}}/bolean_operators/content/index.html" target="_blank">Boolean Operators (Microlearning) Tutorial</a></ul>
+<ul><a href="..{{site.baseurl}}/boolean_operators/content/index.html" target="_blank">Boolean Operators (Microlearning) Tutorial</a></ul>
 <p>The following is a tutorial created to introduce Call Numbers, created by Donovan Frazier and Michael Yonezawa (2022) You are welcome to use and adapt this module for your own educational purposes, under a CC-BY-NC license.</p>
 <ul><a href="..{{site.baseurl}}/call_numbers/content/index.html" target="_blank">Call Numbers (Microlearning) Tutorial</a></ul>
 </body>
